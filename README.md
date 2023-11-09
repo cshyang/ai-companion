@@ -9,7 +9,7 @@ Original project: https://github.com/AntonioErdeljac/next13-ai-companion/blob/ma
 1. Cloning this repository. """git clone https://github.com/cshyang/companion-ai.git"""
 2. Install the packages  `npm i`
 3. Set up .env files
-   """
+   ```
    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
   CLERK_SECRET_KEY=
   
@@ -36,17 +36,18 @@ Original project: https://github.com/AntonioErdeljac/next13-ai-companion/blob/ma
   STRIPE_WEBHOOK_SECRET=
   
   NEXT_PUBLIC_APP_URL="http://localhost:3000"
-   """
+   ```
 4. Setup Prisma 
-"""
+```
 npx prisma db push
-"""
-"""
+```
+```
 node scripts/seed.ts
-"""
-"""
+```
+5. Run the project
+```
 npm run dev
-"""
+```
 
 ## Stacks
 1. NextJS
