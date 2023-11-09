@@ -63,3 +63,5 @@ npm run dev
 
 ## Contact
 GitHub: @cshyang
+
+`Original project: https://github.com/AntonioErdeljac/next13-ai-companion/blob/master/app/layout.tsx`
