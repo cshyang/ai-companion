@@ -6,7 +6,7 @@ Original project: https://github.com/AntonioErdeljac/next13-ai-companion/blob/ma
 <img width="854" alt="image" src="https://github.com/cshyang/ai-companion/assets/45311586/fce37c39-ead2-4301-9325-a743e37ce282">
 
 ## Startup 🚀
-1. Cloning this repository. """git clone https://github.com/cshyang/companion-ai.git"""
+1. Cloning this repository. ```git clone https://github.com/cshyang/companion-ai.git```
 2. Install the packages  `npm i`
 3. Set up .env files
    ```
@@ -37,7 +37,7 @@ Original project: https://github.com/AntonioErdeljac/next13-ai-companion/blob/ma
   
   NEXT_PUBLIC_APP_URL="http://localhost:3000"
    ```
-4. Setup Prisma 
+4. Setup Prisma
 ```
 npx prisma db push
 ```
