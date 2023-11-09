@@ -60,3 +60,6 @@ npm run dev
 7. LLAMMA2
 8. Replicate
 9. Stripe
+
+## Contact
+GitHub: @cshyang
