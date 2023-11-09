@@ -1,7 +1,6 @@
 # mini-product-recommendation-engine
 This project allowed you to create your own AI companion chatbot that imitates the personalities of a celebrity. 
 
-Original project: https://github.com/AntonioErdeljac/next13-ai-companion/blob/master/app/layout.tsx
 
 <img width="854" alt="image" src="https://github.com/cshyang/ai-companion/assets/45311586/fce37c39-ead2-4301-9325-a743e37ce282">
 
@@ -64,4 +63,4 @@ npm run dev
 ## Contact
 GitHub: @cshyang
 
-`Original project: https://github.com/AntonioErdeljac/next13-ai-companion/blob/master/app/layout.tsx`
+Original project: `https://github.com/AntonioErdeljac/next13-ai-companion/blob/master/app/layout.tsx`
